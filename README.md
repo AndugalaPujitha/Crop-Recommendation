@@ -1,4 +1,5 @@
-# Crop-Recommendation System
+# Crop-Recommendation System    [🌐Demo](https://crop-recommendation-systems.streamlit.app/)
+
 Welcome to the Crop Recommendation System repository! This project is designed to assist farmers and agricultural enthusiasts in selecting the most suitable crops for their land based on various environmental parameters. The system is built using Python and Streamlit, offering an interactive and user-friendly interface.
 
 # Demo:
